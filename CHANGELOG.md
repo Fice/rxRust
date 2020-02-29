@@ -1,5 +1,9 @@
 ## [Unreleased](https://github.com/rxRust/rxRust/compare/v0.8.1...HEAD)
 
+### Features
+
+- **operator**: add `zip` operator.
+
 ## [0.8.1](https://github.com/rxRust/rxRust/releases/tag/v0.8.1)  (2020-02-28)
 
 - **docs**: fix docs link and remove inner macro from docs.
